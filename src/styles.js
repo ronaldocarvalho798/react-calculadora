@@ -1,9 +1,5 @@
 import styled from 'styled-components';
-import bgImage from './images/digital-art-beautiful-mountains.jpg'; // Caminho correto para a imagem
-import bgImg from './images/beautiful-shot-snowy-mountain-sunset.jpg'; // Caminho correto para a imagem
 import bgImgThree from './images/three.jpg'; // Caminho correto para a imagem
-import bgImgDark from './images/dark.jpg'; // Caminho correto para a imagem
-import bgImgMountain from './images/mountain.jpg'; // Caminho correto para a imagem
 export const Container = styled.div`
     width:100%;
     height:100vh;
